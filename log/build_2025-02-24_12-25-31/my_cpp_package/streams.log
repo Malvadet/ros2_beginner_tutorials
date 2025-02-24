@@ -1,0 +1,21 @@
+[0.007s] Invoking command in '/home/malvadet/ros2_ws/build/my_cpp_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/malvadet/ros2_ws/build/my_cpp_package -- -j12 -l12
+[0.034s] Invoked command in '/home/malvadet/ros2_ws/build/my_cpp_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/malvadet/ros2_ws/build/my_cpp_package -- -j12 -l12
+[0.040s] Invoking command in '/home/malvadet/ros2_ws/build/my_cpp_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/malvadet/ros2_ws/build/my_cpp_package
+[0.044s] -- Install configuration: ""
+[0.045s] -- Execute custom install script
+[0.045s] -- Up-to-date symlink: /home/malvadet/ros2_ws/install/my_cpp_package/share/ament_index/resource_index/package_run_dependencies/my_cpp_package
+[0.045s] -- Up-to-date symlink: /home/malvadet/ros2_ws/install/my_cpp_package/share/ament_index/resource_index/parent_prefix_path/my_cpp_package
+[0.045s] -- Up-to-date symlink: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/environment/ament_prefix_path.sh
+[0.045s] -- Up-to-date symlink: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/environment/ament_prefix_path.dsv
+[0.045s] -- Up-to-date symlink: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/environment/path.sh
+[0.046s] -- Up-to-date symlink: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/environment/path.dsv
+[0.046s] -- Up-to-date symlink: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/local_setup.bash
+[0.046s] -- Up-to-date symlink: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/local_setup.sh
+[0.046s] -- Up-to-date symlink: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/local_setup.zsh
+[0.046s] -- Up-to-date symlink: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/local_setup.dsv
+[0.046s] -- Symlinking: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/package.dsv
+[0.052s] -- Up-to-date symlink: /home/malvadet/ros2_ws/install/my_cpp_package/share/ament_index/resource_index/packages/my_cpp_package
+[0.053s] -- Up-to-date symlink: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/cmake/my_cpp_packageConfig.cmake
+[0.053s] -- Up-to-date symlink: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/cmake/my_cpp_packageConfig-version.cmake
+[0.053s] -- Up-to-date symlink: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/package.xml
+[0.053s] Invoked command in '/home/malvadet/ros2_ws/build/my_cpp_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/malvadet/ros2_ws/build/my_cpp_package

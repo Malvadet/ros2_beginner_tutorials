@@ -1,0 +1,55 @@
+[0.012s] Invoking command in '/home/malvadet/ros2_ws/build/my_cpp_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/malvadet/ros2_ws/my_cpp_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/malvadet/ros2_ws/install/my_cpp_package
+[0.242s] -- The C compiler identification is GNU 13.3.0
+[0.800s] -- The CXX compiler identification is GNU 13.3.0
+[1.256s] -- Detecting C compiler ABI info
+[1.443s] -- Detecting C compiler ABI info - done
+[1.451s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.451s] -- Detecting C compile features
+[1.452s] -- Detecting C compile features - done
+[1.537s] -- Detecting CXX compiler ABI info
+[1.721s] -- Detecting CXX compiler ABI info - done
+[1.727s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.727s] -- Detecting CXX compile features
+[1.727s] -- Detecting CXX compile features - done
+[1.745s] -- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.853s] -- Found Python3: /usr/local/bin/python3.10 (found version "3.10.13") found components: Interpreter 
+[1.923s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.961s] -- Found rclcpp: 28.1.6 (/opt/ros/jazzy/share/rclcpp/cmake)
+[2.113s] -- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[2.126s] -- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[2.146s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.165s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.242s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[2.246s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[2.321s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[2.483s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[2.563s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.752s] -- Found std_msgs: 5.3.5 (/opt/ros/jazzy/share/std_msgs/cmake)
+[2.767s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[2.858s] -- Added test 'lint_cmake' to check CMake code style
+[2.860s] -- Added test 'xmllint' to check XML markup files
+[2.862s] -- Configuring done (2.8s)
+[2.865s] -- Generating done (0.0s)
+[2.868s] -- Build files have been written to: /home/malvadet/ros2_ws/build/my_cpp_package
+[2.875s] Invoked command in '/home/malvadet/ros2_ws/build/my_cpp_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/malvadet/ros2_ws/my_cpp_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/malvadet/ros2_ws/install/my_cpp_package
+[2.876s] Invoking command in '/home/malvadet/ros2_ws/build/my_cpp_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/malvadet/ros2_ws/build/my_cpp_package -- -j12 -l12
+[2.898s] Invoked command in '/home/malvadet/ros2_ws/build/my_cpp_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/malvadet/ros2_ws/build/my_cpp_package -- -j12 -l12
+[2.904s] Invoking command in '/home/malvadet/ros2_ws/build/my_cpp_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/malvadet/ros2_ws/build/my_cpp_package
+[2.908s] -- Install configuration: ""
+[2.908s] -- Execute custom install script
+[2.909s] -- Symlinking: /home/malvadet/ros2_ws/install/my_cpp_package/share/ament_index/resource_index/package_run_dependencies/my_cpp_package
+[2.914s] -- Symlinking: /home/malvadet/ros2_ws/install/my_cpp_package/share/ament_index/resource_index/parent_prefix_path/my_cpp_package
+[2.920s] -- Symlinking: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/environment/ament_prefix_path.sh
+[2.925s] -- Symlinking: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/environment/ament_prefix_path.dsv
+[2.930s] -- Symlinking: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/environment/path.sh
+[2.935s] -- Symlinking: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/environment/path.dsv
+[2.940s] -- Symlinking: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/local_setup.bash
+[2.944s] -- Symlinking: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/local_setup.sh
+[2.949s] -- Symlinking: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/local_setup.zsh
+[2.955s] -- Symlinking: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/local_setup.dsv
+[2.959s] -- Symlinking: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/package.dsv
+[2.964s] -- Symlinking: /home/malvadet/ros2_ws/install/my_cpp_package/share/ament_index/resource_index/packages/my_cpp_package
+[2.969s] -- Symlinking: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/cmake/my_cpp_packageConfig.cmake
+[2.974s] -- Symlinking: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/cmake/my_cpp_packageConfig-version.cmake
+[2.978s] -- Symlinking: /home/malvadet/ros2_ws/install/my_cpp_package/share/my_cpp_package/package.xml
+[2.984s] Invoked command in '/home/malvadet/ros2_ws/build/my_cpp_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/malvadet/ros2_ws/build/my_cpp_package

@@ -1,0 +1,47 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/local/bin/python3.10 (found version "3.10.13") found components: Interpreter 
+-- Found rclpy: 7.1.3 (/opt/ros/jazzy/share/rclpy/cmake)
+-- Found std_msgs: 5.3.5 (/opt/ros/jazzy/share/std_msgs/cmake)
+-- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Configured 'flake8' exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (2.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/malvadet/ros2_ws/build/beginner_tutorials
+-- Install configuration: ""
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/lib/beginner_tutorials/talker.py
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/lib/beginner_tutorials/listener.py
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/share/ament_index/resource_index/package_run_dependencies/beginner_tutorials
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/share/ament_index/resource_index/parent_prefix_path/beginner_tutorials
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/environment/ament_prefix_path.sh
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/environment/ament_prefix_path.dsv
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/environment/path.sh
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/environment/path.dsv
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/local_setup.bash
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/local_setup.sh
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/local_setup.zsh
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/local_setup.dsv
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/package.dsv
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/share/ament_index/resource_index/packages/beginner_tutorials
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+-- Installing: /home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/package.xml

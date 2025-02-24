@@ -1,0 +1,17 @@
+/home/malvadet/ros2_ws/install/beginner_tutorials/lib/beginner_tutorials/talker.py
+/home/malvadet/ros2_ws/install/beginner_tutorials/lib/beginner_tutorials/listener.py
+/home/malvadet/ros2_ws/install/beginner_tutorials/share/ament_index/resource_index/package_run_dependencies/beginner_tutorials
+/home/malvadet/ros2_ws/install/beginner_tutorials/share/ament_index/resource_index/parent_prefix_path/beginner_tutorials
+/home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/environment/ament_prefix_path.sh
+/home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/environment/ament_prefix_path.dsv
+/home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/environment/path.sh
+/home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/environment/path.dsv
+/home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/local_setup.bash
+/home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/local_setup.sh
+/home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/local_setup.zsh
+/home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/local_setup.dsv
+/home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/package.dsv
+/home/malvadet/ros2_ws/install/beginner_tutorials/share/ament_index/resource_index/packages/beginner_tutorials
+/home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/malvadet/ros2_ws/install/beginner_tutorials/share/beginner_tutorials/package.xml
